@@ -1,0 +1,52 @@
+[
+    {
+        "file": "test_case_1.json",
+        "passed": true,
+        "output": "Saved report to report.json"
+    },
+    {
+        "file": "test_case_10.json",
+        "passed": true,
+        "output": "Saved report to report.json"
+    },
+    {
+        "file": "test_case_2.json",
+        "passed": true,
+        "output": "Saved report to report.json"
+    },
+    {
+        "file": "test_case_3.json",
+        "passed": true,
+        "output": "Saved report to report.json"
+    },
+    {
+        "file": "test_case_4.json",
+        "passed": true,
+        "output": "Saved report to report.json"
+    },
+    {
+        "file": "test_case_5.json",
+        "passed": true,
+        "output": "Saved report to report.json"
+    },
+    {
+        "file": "test_case_6.json",
+        "passed": true,
+        "output": "Saved report to report.json"
+    },
+    {
+        "file": "test_case_7.json",
+        "passed": true,
+        "output": "Saved report to report.json"
+    },
+    {
+        "file": "test_case_8.json",
+        "passed": true,
+        "output": "Saved report to report.json"
+    },
+    {
+        "file": "test_case_9.json",
+        "passed": true,
+        "output": "Saved report to report.json"
+    }
+]
